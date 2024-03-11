@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/11-03-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/11-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/11-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md"
+                "file": "5. Footprints/11-03-2024.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "f8810a79077d806b",
   "lastOpenFiles": [
+    "1. Zettelkasten/GSOC - AnkiDroid.md",
     "1. Zettelkasten/GSOC - Mifos Initiative.md",
     "1. Zettelkasten/Hacktoberfest.md",
     "5. Footprints/07-03-2024.md",
     "5. Footprints/06-03-2024.md",
-    "1. Zettelkasten/GSOC - AnkiDroid.md",
     "Untitled.canvas",
     "5. Footprints/04-03-2024.md",
     "1. Zettelkasten/GSOC - 2024.md",
