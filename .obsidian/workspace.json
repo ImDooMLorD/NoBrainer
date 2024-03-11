@@ -130,13 +130,21 @@
                 "file": "5. Footprints/11-03-2024.md"
               }
             }
+          },
+          {
+            "id": "2936e45a33a177cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8810a79077d806b",
+  "active": "2936e45a33a177cf",
   "lastOpenFiles": [
     "1. Zettelkasten/GSOC - AnkiDroid.md",
     "1. Zettelkasten/GSOC - Mifos Initiative.md",
