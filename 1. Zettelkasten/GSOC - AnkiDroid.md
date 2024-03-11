@@ -6,7 +6,6 @@ Found this at 2024 org list..
 
 ### Plans & technogies requirements of this organisation - 
 - As of today -> 11-03-2024 , this repo uses `XML` layouts.
-- 
 
 ___
 ## References
