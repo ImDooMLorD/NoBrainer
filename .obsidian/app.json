@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. Zettelkasten",
+  "showInlineTitle": true,
+  "attachmentFolderPath": "2. Files",
+  "alwaysUpdateLinks": false,
+  "spellcheck": false
+}
