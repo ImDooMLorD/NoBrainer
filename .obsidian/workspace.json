@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/12-03-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#undone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/12-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md",
+                "file": "5. Footprints/12-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/GSOC - AnkiDroid.md"
+                "file": "5. Footprints/12-03-2024.md"
               }
             }
           },
@@ -158,12 +158,14 @@
   },
   "active": "f8810a79077d806b",
   "lastOpenFiles": [
+    "5. Footprints/11-03-2024.md",
+    "5. Footprints/12-03-2024.md",
+    "4. Templates/On This Day.md",
+    "5. Footprints/10-03-2024.md",
+    "1. Zettelkasten/GSOC - AnkiDroid.md",
     "5. Footprints/03-03-2024.md",
     "5. Footprints/07-03-2024.md",
-    "5. Footprints/10-03-2024.md",
     "5. Footprints/09-03-2024.md",
-    "5. Footprints/11-03-2024.md",
-    "1. Zettelkasten/GSOC - AnkiDroid.md",
     "1. Zettelkasten/GSOC - Mifos Initiative.md",
     "1. Zettelkasten/Hacktoberfest.md",
     "5. Footprints/06-03-2024.md",
@@ -177,8 +179,6 @@
     "5. Footprints/08-03-2024.md",
     "1. Zettelkasten/untiltled.md",
     "4. Templates/Core Zettel Idea.md",
-    "5. Footprints/12-03-2024.md",
-    "4. Templates/On This Day.md",
     "1. Zettelkasten/Data Sharing between Android Activities.md",
     "VIM!.md",
     "1. Zettelkasten/Android Dev.md",
