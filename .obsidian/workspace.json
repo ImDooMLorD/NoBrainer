@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM!.md",
+                "file": "5. Footprints/13-03-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "29de42afb98166b9",
+            "id": "d267817612c0edec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,35 +82,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e3c33159bf19a2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "VIM!.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8926bec664eebede",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "VIM!.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6a28fe76adc45351",
             "type": "leaf",
             "state": {
@@ -122,29 +93,58 @@
             }
           },
           {
-            "id": "e92559d07fefe69f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "VIM!.md"
-              }
-            }
-          },
-          {
-            "id": "2936e45a33a177cf",
+            "id": "dc9ce27f39cac74f",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "8eb992033d216d81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Footprints/13-03-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc29649cf2fd8867",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Footprints/13-03-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13c4dc18eec2a383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Footprints/13-03-2024.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,28 +159,29 @@
   "active": "f8810a79077d806b",
   "lastOpenFiles": [
     "5. Footprints/11-03-2024.md",
+    "1. Zettelkasten/Hacktoberfest.md",
+    "1. Zettelkasten/GSOC - Mifos Initiative.md",
+    "VIM!.md",
+    "5. Footprints/13-03-2024.md",
     "5. Footprints/12-03-2024.md",
+    "1. Zettelkasten/GSOC - AnkiDroid.md",
+    "1. Zettelkasten/GSOC - 2024.md",
+    "5. Footprints/08-03-2024.md",
     "5. Footprints/10-03-2024.md",
     "5. Footprints/09-03-2024.md",
-    "5. Footprints/08-03-2024.md",
     "5. Footprints/07-03-2024.md",
     "5. Footprints/05-03-2024.md",
     "5. Footprints/04-03-2024.md",
     "5. Footprints/06-03-2024.md",
     "5. Footprints/03-03-2024.md",
     "5. Footprints",
-    "VIM!.md",
     "1. Zettelkasten/Basics of Android Development (Phillipe leckner).md",
     "1. Zettelkasten/Things important right now.md",
     "4. Templates/Core Zettel Idea.md",
     "4. Templates/Date.md",
     "4. Templates/On This Day.md",
     "4. Templates/Time.md",
-    "1. Zettelkasten/GSOC - Mifos Initiative.md",
-    "1. Zettelkasten/Hacktoberfest.md",
-    "1. Zettelkasten/GSOC - AnkiDroid.md",
     "Untitled.canvas",
-    "1. Zettelkasten/GSOC - 2024.md",
     "1. Zettelkasten/untiltled.md",
     "1. Zettelkasten/Data Sharing between Android Activities.md",
     "1. Zettelkasten/Android Dev.md",
