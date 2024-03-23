@@ -8,5 +8,6 @@
   "showInlineTitle": true,
   "attachmentFolderPath": "2. Files",
   "alwaysUpdateLinks": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "livePreview": true
 }

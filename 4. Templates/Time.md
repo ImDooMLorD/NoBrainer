@@ -1,1 +1,1 @@
-{{time:HH:mm A}}
+{{time:hh:mm A}}
