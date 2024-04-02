@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Footprints/24-03-2024.md",
+                "file": "5. Footprints/02-04-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#gsoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +67,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 220.50260543823242
   },
   "right": {
     "id": "33f9dd76096c4168",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Footprints/24-03-2024.md",
+                "file": "5. Footprints/02-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Footprints/24-03-2024.md",
+                "file": "5. Footprints/02-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Footprints/24-03-2024.md"
+                "file": "5. Footprints/02-04-2024.md"
               }
             }
           }
@@ -144,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,32 +159,33 @@
   },
   "active": "f8810a79077d806b",
   "lastOpenFiles": [
-    "5. Footprints/23-03-2024.md",
-    "5. Footprints/24-03-2024.md",
-    "5. Footprints/22-03-2024.md",
-    "5. Footprints/21-03-2024.md",
-    "5. Footprints/25-03-2024.md",
-    "5. Footprints/10-03-2024.md",
-    "5. Footprints/11-03-2024.md",
-    "5. Footprints/12-03-2024.md",
-    "5. Footprints/13-03-2024.md",
-    "5. Footprints/14-03-2024.md",
-    "5. Footprints/15-03-2024.md",
-    "5. Footprints/16-03-2024.md",
-    "5. Footprints/17-03-2024.md",
-    "5. Footprints/18-03-2024.md",
-    "5. Footprints/19-03-2024.md",
-    "1. Zettelkasten/Symbolic Links.md",
-    "5. Footprints/20-03-2024.md",
-    "1. Zettelkasten/[.md",
+    "1. Zettelkasten/GSOC - AnkiDroid.md",
+    "1. Zettelkasten/GSOC - Mifos Initiative.md",
+    "5. Footprints/02-04-2024.md",
+    "1. Zettelkasten/GSOC - 2024.md",
+    "5. Footprints/March/19-03-2024.md",
+    "5. Footprints/March/23-03-2024.md",
+    "5. Footprints/March/24-03-2024.md",
+    "5. Footprints/March/27-03-2024.md",
+    "5. Footprints/March/29-03-2024.md",
+    "5. Footprints/March/30-03-2024.md",
+    "5. Footprints/March/03-03-2024.md",
+    "5. Footprints/March",
     "1. Zettelkasten/NeoVim.md",
-    "5. Footprints/06-03-2024.md",
-    "5. Footprints/09-03-2024.md",
-    "4. Templates/Core Zettel Idea.md",
-    "VIM!.md",
-    "1. Zettelkasten/TimeTable.md",
-    "4. Templates/Time.md",
     "1. Zettelkasten/Hacktoberfest.md",
+    "1. Zettelkasten/TimeTable.md",
+    "1. Zettelkasten/Things important right now.md",
+    "1. Zettelkasten/Symbolic Links.md",
+    "5. Footprints/March/22-03-2024.md",
+    "5. Footprints/March/21-03-2024.md",
+    "5. Footprints/25-03-2024.md",
+    "5. Footprints/March/10-03-2024.md",
+    "5. Footprints/March/11-03-2024.md",
+    "5. Footprints/March/12-03-2024.md",
+    "5. Footprints/March/13-03-2024.md",
+    "5. Footprints/March/14-03-2024.md",
+    "5. Footprints/March/15-03-2024.md",
+    "5. Footprints/March/16-03-2024.md",
     "5. Footprints",
     "Untitled.canvas",
     "4. Templates",

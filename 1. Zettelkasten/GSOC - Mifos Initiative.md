@@ -1,6 +1,6 @@
 200220241710
 Status: #idea 
-Tags: #gsoc #android #org
+Tags: #GSOC #android #org
 
 Found this on initial search for organizations.
 moto - End Poverty One Line of Code at a Time
