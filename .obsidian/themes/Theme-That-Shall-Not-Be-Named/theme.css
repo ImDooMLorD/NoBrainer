@@ -70,7 +70,7 @@
     --background-modifier-cover: rgba(0, 0, 0, 0.8); /* The alpha mask / dimming of the background when a menu is open. */
     --interactive-normal: var(--brass-base); /* The background color of the "copy" button in a code block */
     --interactive-hover: var(--brass-dark); /* Background color when mousing over the "copy" button in a code block */
-    --interactive-accent: var(--green-dark); /* The background color for the notification pop-up when clicking the "copy" button on a code block. Background color for buttons in settings. Border color for selective/active drop down menus and text fields. Background of selected theme when managing themes. Color of bar underlining active window. */
+    --interactive-accent: var(--green-light); /* The background color for the notification pop-up when clicking the "copy" button on a code block. Background color for buttons in settings. Border color for selective/active drop down menus and text fields. Background of selected theme when managing themes. Color of bar underlining active window. */
     --interactive-accent-rgb: 97, 97, 97; /* The color of the divider between windows when you mouse over them to resize them. */
     --interactive-accent-hover: var(--green-deep); /* Background text when mousing over buttons in settings */
     --interactive-success: #197300; /* Unknown */

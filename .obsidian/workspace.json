@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4950445496e9d9cb",
+        "id": "e468f1af5a655ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "f8810a79077d806b",
+            "id": "28fa193b188b5a13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Footprints/02-04-2024.md",
+                "file": "1. Zettelkasten/Calisthenics Routine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#gsoc",
+                "query": "tag:#Android-Basics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Footprints/02-04-2024.md",
+                "file": "1. Zettelkasten/Calisthenics Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Footprints/02-04-2024.md",
+                "file": "1. Zettelkasten/Calisthenics Routine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Footprints/02-04-2024.md"
+                "file": "1. Zettelkasten/Calisthenics Routine.md"
               }
             }
           }
@@ -157,35 +156,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8810a79077d806b",
+  "active": "28fa193b188b5a13",
   "lastOpenFiles": [
-    "1. Zettelkasten/GSOC - AnkiDroid.md",
-    "1. Zettelkasten/GSOC - Mifos Initiative.md",
-    "5. Footprints/02-04-2024.md",
-    "1. Zettelkasten/GSOC - 2024.md",
-    "5. Footprints/March/19-03-2024.md",
-    "5. Footprints/March/23-03-2024.md",
-    "5. Footprints/March/24-03-2024.md",
-    "5. Footprints/March/27-03-2024.md",
-    "5. Footprints/March/29-03-2024.md",
-    "5. Footprints/March/30-03-2024.md",
-    "5. Footprints/March/03-03-2024.md",
-    "5. Footprints/March",
+    "5. Footprints/15-05-2024.md",
+    "1. Zettelkasten/Calisthenics Routine.md",
+    "5. Footprints/April/15-04-2024.md",
+    "5. Footprints/April/02-04-2024.md",
+    "5. Footprints/April",
+    "1. Zettelkasten/Fan speed controls in Arch.md",
+    "1. Zettelkasten/Lf File Manger.md",
     "1. Zettelkasten/NeoVim.md",
-    "1. Zettelkasten/Hacktoberfest.md",
-    "1. Zettelkasten/TimeTable.md",
-    "1. Zettelkasten/Things important right now.md",
+    "5. Footprints/April/14-04-2024.md",
+    "5. Footprints/April/13-04-2024.md",
+    "1. Zettelkasten/youtube link.md",
     "1. Zettelkasten/Symbolic Links.md",
-    "5. Footprints/March/22-03-2024.md",
-    "5. Footprints/March/21-03-2024.md",
-    "5. Footprints/25-03-2024.md",
-    "5. Footprints/March/10-03-2024.md",
-    "5. Footprints/March/11-03-2024.md",
-    "5. Footprints/March/12-03-2024.md",
-    "5. Footprints/March/13-03-2024.md",
-    "5. Footprints/March/14-03-2024.md",
-    "5. Footprints/March/15-03-2024.md",
-    "5. Footprints/March/16-03-2024.md",
+    "1. Zettelkasten/GSOC - 2024.md",
+    "1. Zettelkasten/GSOC - AnkiDroid.md",
+    "1. Zettelkasten/ViewModels.md",
+    "VIM!.md",
+    "1. Zettelkasten/Android Libraries.md",
+    "1. Zettelkasten/GSOC - Mifos Initiative.md",
+    "1. Zettelkasten/Resources for Dev.md",
+    "1. Zettelkasten/Things important right now.md",
+    "1. Zettelkasten/TimeTable.md",
+    "5. Footprints/April/10-04-2024.md",
+    "5. Footprints/April/11-04-2024.md",
+    "5. Footprints/April/12-04-2024.md",
+    "4. Templates/Core Zettel Idea.md",
+    "1. Zettelkasten/Hacktoberfest.md",
+    "5. Footprints/March/19-03-2024.md",
+    "5. Footprints/March",
     "5. Footprints",
     "Untitled.canvas",
     "4. Templates",
