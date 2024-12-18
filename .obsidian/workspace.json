@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "708f60dfde1522d9",
+        "id": "8700eb8ceebb0332",
         "type": "tabs",
         "children": [
           {
-            "id": "475b27621398b1f3",
+            "id": "6d5db4476476e112",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/core-plugins.json",
-                "staged": false
+                "file": "1. Zettelkasten/Hacktoberfest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (core-plugins.json)"
+              "icon": "lucide-file",
+              "title": "Hacktoberfest"
             }
           }
         ],
@@ -156,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,22 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "475b27621398b1f3",
+  "active": "6d5db4476476e112",
   "lastOpenFiles": [
-    "VIM!.md",
-    "4. Templates/Core Zettel Idea.md",
-    "4. Templates/Date.md",
+    "1. Zettelkasten/DSA Resources & Progress.md",
+    "1. Zettelkasten/Android Resources and Progress.md",
     "4. Templates/Time.md",
     "4. Templates/On This Day.md",
+    "4. Templates/Core Zettel Idea.md",
+    "VIM!.md",
+    "4. Templates/Date.md",
     "5. Footprints/01-06-2024.md",
     "5. Footprints/May/15-05-2024.md",
     "5. Footprints/May",
     "5. Footprints/May/18-05-2024.md",
     "5. Footprints/May/21-05-2024.md",
     "5. Footprints/2-05-2024.md",
-    "1. Zettelkasten/DSA Resources & Progress.md",
     "5. Footprints/May/20-05-2024.md",
-    "1. Zettelkasten/Android Resources and Progress.md",
     "5. Footprints/May/19-05-2024.md",
     "5. Footprints/May/17-05-2024.md",
     "5. Footprints/May/16-05-2024.md",
