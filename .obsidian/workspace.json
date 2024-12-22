@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Hacktoberfest.md",
+                "file": "1. Zettelkasten/GSOC - Mifos Initiative.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hacktoberfest"
+              "title": "GSOC - Mifos Initiative"
             }
           }
         ],
@@ -170,15 +170,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d5db4476476e112",
+  "active": "9c96d6feb7525178",
   "lastOpenFiles": [
+    "4. Templates/Core Zettel Idea.md",
+    "4. Templates/Date.md",
+    "4. Templates/On This Day.md",
     "1. Zettelkasten/DSA Resources & Progress.md",
+    "1. Zettelkasten/Hacktoberfest.md",
+    "1. Zettelkasten/Lf File Manger.md",
+    "1. Zettelkasten/Things important right now.md",
+    "1. Zettelkasten/Symbolic Links.md",
+    "1. Zettelkasten/NeoVim.md",
+    "1. Zettelkasten/Resources for Dev.md",
+    "1. Zettelkasten/TimeTable.md",
+    "1. Zettelkasten/ViewModels.md",
+    "1. Zettelkasten/Calisthenics Routine.md",
     "1. Zettelkasten/Android Resources and Progress.md",
     "4. Templates/Time.md",
-    "4. Templates/On This Day.md",
-    "4. Templates/Core Zettel Idea.md",
     "VIM!.md",
-    "4. Templates/Date.md",
     "5. Footprints/01-06-2024.md",
     "5. Footprints/May/15-05-2024.md",
     "5. Footprints/May",
@@ -189,16 +198,7 @@
     "5. Footprints/May/19-05-2024.md",
     "5. Footprints/May/17-05-2024.md",
     "5. Footprints/May/16-05-2024.md",
-    "1. Zettelkasten/Calisthenics Routine.md",
     "1. Zettelkasten/Jetpack Compose(Phillipe leckner).md",
-    "5. Footprints/March/11-03-2024.md",
-    "1. Zettelkasten/Android Dev.md",
-    "1. Zettelkasten/ViewModels.md",
-    "1. Zettelkasten/Android Libraries.md",
-    "1. Zettelkasten/Resources for Dev.md",
-    "5. Footprints/April/10-04-2024.md",
-    "5. Footprints/April/11-04-2024.md",
-    "5. Footprints/March/15-03-2024.md",
     "5. Footprints/April",
     "5. Footprints/March",
     "5. Footprints",
