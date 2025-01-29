@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM!.md",
+                "file": "1. Zettelkasten/GSOC - 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIM!"
+              "title": "GSOC - 2024"
             }
           }
         ]
@@ -84,7 +84,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d127e464e4693e95",
@@ -134,9 +134,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "6af96a711f49ecf1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fc41e46705179a0",
-  "lastOpenFiles": []
+  "active": "b02af837db12f976",
+  "lastOpenFiles": [
+    "1. Zettelkasten/GSOC - Mifos Initiative.md",
+    "VIM!.md"
+  ]
 }
