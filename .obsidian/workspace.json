@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Cleanup Linux.md",
+                "file": "1. Zettelkasten/Pywal Color Logic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cleanup Linux"
-            }
+              "title": "Pywal Color Logic"
+            },
+            "group": "f5a54093a6aed924"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "263f1d5efb173a24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44513c8a79c18655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/Pywal Color Logic.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pywal Color Logic"
+            },
+            "group": "f5a54093a6aed924"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +132,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a91a5f7e86025c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "dc9ce27f39cac74f",
             "type": "leaf",
             "state": {
@@ -146,31 +193,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Cleanup Linux.md",
+                "file": "1. Zettelkasten/Pywal Color Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cleanup Linux"
-            }
-          },
-          {
-            "id": "a91a5f7e86025c8b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outline of Pywal Color Logic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +222,9 @@
   },
   "active": "dc9ce27f39cac74f",
   "lastOpenFiles": [
-    "VIM!.md",
     "1. Zettelkasten/Cleanup Linux.md",
+    "1. Zettelkasten/Pywal Color Logic.md",
+    "VIM!.md",
     "4. Templates/Core Zettel Idea.md",
     "1. Zettelkasten/Resources for Dev.md",
     "1. Zettelkasten/NeoVim.md",
@@ -215,7 +249,6 @@
     "5. Footprints/May",
     "5. Footprints/May/18-05-2024.md",
     "5. Footprints/May/21-05-2024.md",
-    "5. Footprints/2-05-2024.md",
     "5. Footprints/April",
     "5. Footprints/March",
     "5. Footprints",
