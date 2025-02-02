@@ -22,6 +22,3 @@ void main(){
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-
-Used git in tablet
-If this line pushed it means git automation is working every 15 min
