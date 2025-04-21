@@ -4,8 +4,8 @@ Tags:
 
 # Fan speed controls in Arch
 - For my asus laptop some useful links -
-	- [link to driver kernel doc](https://www.kernel.org/doc/Documentation/hwmon/nct6775)
-- Directory of the file - `/sys/class/hwmon/hwmon4/`
+	- Directory of the file --> `/sys/devices/platform/asus-nb-wmi/hwmon/hwmon4/pwm1_enable`
+	- [Check arch wiki](https://wiki.archlinux.org/title/Fan_speed_control)
 
 ```
 sysfs attributes

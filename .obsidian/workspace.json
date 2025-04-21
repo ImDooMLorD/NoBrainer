@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Pywal Color Logic.md",
+                "file": "1. Zettelkasten/Fan speed controls in Arch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,43 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pywal Color Logic"
-            },
-            "group": "f5a54093a6aed924"
+              "title": "Fan speed controls in Arch"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "263f1d5efb173a24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44513c8a79c18655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Zettelkasten/Pywal Color Logic.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pywal Color Logic"
-            },
-            "group": "f5a54093a6aed924"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc9ce27f39cac74f",
+  "active": "6d5db4476476e112",
   "lastOpenFiles": [
-    "1. Zettelkasten/Cleanup Linux.md",
     "1. Zettelkasten/Pywal Color Logic.md",
+    "1. Zettelkasten/Cleanup Linux.md",
     "VIM!.md",
     "4. Templates/Core Zettel Idea.md",
     "1. Zettelkasten/Resources for Dev.md",
